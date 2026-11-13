@@ -1,0 +1,5 @@
+# FixVedioMask-PGS 额外依赖
+# （torch / numpy / Pillow / aiohttp 由 ComfyUI 自带，无需在此声明）
+
+opencv-python-headless>=4.8.0
+imageio-ffmpeg>=0.4.9
